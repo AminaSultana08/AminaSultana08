@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AminaSultana08](https://github.com/AminaSultana08)
 
-- 💬 Ask me about **react , HTML, CSS,Tailwind, JavaScript**
+- 💬 Ask me about **React , HTML, CSS,Tailwind, JavaScript**
 
 - 📫 How to reach me **aminasultana088@gmail.com**
 
