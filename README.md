@@ -21,6 +21,10 @@
 - 💬 Ask me about **React , HTML, CSS,Tailwind, JavaScript**
 
 - 📫 How to reach me **aminasultana088@gmail.com**
+  <br/>
+  <br/>
+  <br/>
+  <br/>
 
 ## Connect with me
 <p align="left">
